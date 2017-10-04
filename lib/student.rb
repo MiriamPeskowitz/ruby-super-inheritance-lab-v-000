@@ -8,10 +8,6 @@ class Student
     puts "Pick me!"
   end
 
-  def
-
-
-  end
-
+  
 
 end
